@@ -1,5 +1,5 @@
 public class MyHelloWorld {
  public void sum(){
-  system.debug('Hello World');
+  system.debug('Hello Salesforce World');
   }
 }
