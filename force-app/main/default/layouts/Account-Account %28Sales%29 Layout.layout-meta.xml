@@ -53,6 +53,10 @@
                 <behavior>Edit</behavior>
                 <field>Scratch_org_names__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Renewal__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
